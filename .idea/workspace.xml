@@ -25,7 +25,7 @@
   <component name="ProjectId" id="1T17L5cfOzaJcN4Lr5FMmh8XKkY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -95,8 +95,8 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="434" height="845" key="Git.Branch.Popup" />
-    <state width="434" height="845" key="Git.Branch.Popup/1920.1080" />
-    <state width="434" height="845" key="Git.Branch.Popup@1920.1080" />
+    <state width="440" height="851" key="Git.Branch.Popup" />
+    <state width="440" height="851" key="Git.Branch.Popup/1920.1080" />
+    <state width="440" height="851" key="Git.Branch.Popup@1920.1080" />
   </component>
 </project>
