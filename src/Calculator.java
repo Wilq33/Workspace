@@ -51,6 +51,7 @@ public class Calculator {
 
         FirefoxDriver driver = new FirefoxDriver();
         driver.get("http://way2automation.com");
+        System.out.print("Test");
 
     }
 
