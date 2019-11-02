@@ -50,8 +50,10 @@ public class Calculator {
         new Calculator().mult();
 
         FirefoxDriver driver = new FirefoxDriver();
+        ChromeDriver driver2 =  new ChromeDriver();
         driver.get("http://way2automation.com");
-        System.out.print("Test");
+        System.out.print("Test22");
+        driver2.get("http://way2automation.com");
 
     }
 

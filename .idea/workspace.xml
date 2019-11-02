@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14625261-0079-49d8-a9e3-85ab05434e37" name="Default Changelist" comment="" />
+    <list default="true" id="14625261-0079-49d8-a9e3-85ab05434e37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,19 +23,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1T17L5cfOzaJcN4Lr5FMmh8XKkY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Jars/poi-4.1.1/poi-4.1.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Repos\Workspace" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Wilq\IdeaProjects\Workspace" />
     </key>
@@ -95,8 +107,8 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="440" height="851" key="Git.Branch.Popup" />
-    <state width="440" height="851" key="Git.Branch.Popup/1920.1080" />
-    <state width="440" height="851" key="Git.Branch.Popup@1920.1080" />
+    <state width="444" height="855" key="Git.Branch.Popup" />
+    <state width="444" height="855" key="Git.Branch.Popup/1920.1080" />
+    <state width="444" height="855" key="Git.Branch.Popup@1920.1080" />
   </component>
 </project>
