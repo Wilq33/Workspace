@@ -7,7 +7,6 @@ public class Calculator {
 
       System.out.println("Calling constructor");
 
-
     }
 
 
@@ -49,11 +48,11 @@ public class Calculator {
         new Calculator().div();
         new Calculator().mult();
 
-        FirefoxDriver driver = new FirefoxDriver();
-        ChromeDriver driver2 =  new ChromeDriver();
-        driver.get("http://way2automation.com");
+        FirefoxDriver driverF = new FirefoxDriver();
+        ChromeDriver driverCH =  new ChromeDriver();
+        driverF.get("http://way2automation.com");
         System.out.print("Test22");
-        driver2.get("http://way2automation.com");
+        driverCH.get("http://way2automation.com");
 
     }
 
