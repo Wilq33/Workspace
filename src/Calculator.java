@@ -1,5 +1,8 @@
+import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+
+import java.util.concurrent.TimeUnit;
 
 public class Calculator {
 
@@ -50,10 +53,15 @@ public class Calculator {
 
         FirefoxDriver driverF = new FirefoxDriver();
         ChromeDriver driverCH =  new ChromeDriver();
-        driverF.get("http://way2automation.com");
-        System.out.print("Test22");
-        driverCH.get("http://way2automation.com");
+        String link = "http://way2automation.com";
 
+
+        driverF.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+        driverF.get(link);
+        driverF.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+        //System.out.print("Test22");
+        //driverCH.get("http://way2automation.com");
+        driverF.findElement(By.id("ChatWidgetButton"));
     }
 
 }

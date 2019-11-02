@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14625261-0079-49d8-a9e3-85ab05434e37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_17.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Workspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +46,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Repos\Workspace" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Wilq\IdeaProjects\Workspace" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Repos\Workspace" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -81,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
@@ -132,8 +133,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adding mysql connector" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="444" height="855" key="Git.Branch.Popup" />
-    <state width="444" height="855" key="Git.Branch.Popup/1920.1080" />
-    <state width="444" height="855" key="Git.Branch.Popup@1920.1080" />
+    <state width="452" height="863" key="Git.Branch.Popup" />
+    <state width="452" height="863" key="Git.Branch.Popup/1920.1080" />
+    <state width="452" height="863" key="Git.Branch.Popup@1920.1080" />
   </component>
 </project>
